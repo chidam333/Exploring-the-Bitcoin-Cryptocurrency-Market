@@ -16,9 +16,7 @@ _NOTE : Data is old_ <br>
   <img src="./svg/output_3_1.jpeg" alt="drawing" width="500" height="400"/>
   <img src="./svg/output_5_0.jpeg" alt="drawing" width="500" height="400"/>
   <img src="./svg/output_6_0.jpeg" alt="drawing" width="500" height="400"/>
-</p>
-<p align="center">
-    <img src="./svg/output_8_1.jpeg" alt="drawing" width="500"/>
+  <img src="./svg/output_8_1.jpeg" alt="drawing" width="500" height="400"/>
 </p>
 
 ## INSIGHTS
