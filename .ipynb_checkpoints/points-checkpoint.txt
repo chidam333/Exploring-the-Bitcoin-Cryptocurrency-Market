@@ -1,0 +1,1 @@
+-> in matplotlib plot function font size options are xx-small, x-small, small, medium, large, x-large, xx-large, larger, smaller, None
